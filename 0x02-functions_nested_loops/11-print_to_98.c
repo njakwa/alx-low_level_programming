@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- *  * print_to_98 - Check Holberton
+
  *   * @n: A input integer
  *    * Description: function that prints all natural numbers
  *     * from n to 98, followed by a new line.
