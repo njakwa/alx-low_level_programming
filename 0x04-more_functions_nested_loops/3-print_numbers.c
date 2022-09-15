@@ -1,18 +1,16 @@
 #include "main.h"
 
-#include <stdio.h>
-
 /**
- * mul - multiplies two integers
- *@a: number being tested
- *@b: number being tested
+ * print_numbers - prints nmubers from 0-9
+ *
  * Return: Always 0.
  */
 
-int mul(int a, int b)
+void print_numbers(void)
 {
-	int product;
+	char i;
 
-	product = a * b;
-	return (product);
+	for (i = '0'; i <= '9'; i++)
+		_putchar(i);
+	_putchar('\n');
 }
