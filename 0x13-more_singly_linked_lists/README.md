@@ -1,1 +1,1 @@
-reade me 
+more like strings
